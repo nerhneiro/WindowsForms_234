@@ -1,0 +1,10 @@
+C:\Users\VVV\source\repos\Practice_4\Practice_4\obj\Debug\Practice_4.csprojAssemblyReference.cache
+C:\Users\VVV\source\repos\Practice_4\Practice_4\obj\Debug\Practice_4.Form1.resources
+C:\Users\VVV\source\repos\Practice_4\Practice_4\obj\Debug\Practice_4.Properties.Resources.resources
+C:\Users\VVV\source\repos\Practice_4\Practice_4\obj\Debug\Practice_4.csproj.GenerateResource.cache
+C:\Users\VVV\source\repos\Practice_4\Practice_4\obj\Debug\Practice_4.csproj.CoreCompileInputs.cache
+C:\Users\VVV\source\repos\Practice_4\Practice_4\bin\Debug\Practice_4.exe.config
+C:\Users\VVV\source\repos\Practice_4\Practice_4\bin\Debug\Practice_4.exe
+C:\Users\VVV\source\repos\Practice_4\Practice_4\bin\Debug\Practice_4.pdb
+C:\Users\VVV\source\repos\Practice_4\Practice_4\obj\Debug\Practice_4.exe
+C:\Users\VVV\source\repos\Practice_4\Practice_4\obj\Debug\Practice_4.pdb

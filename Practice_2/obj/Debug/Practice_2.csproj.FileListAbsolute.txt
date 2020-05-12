@@ -1,0 +1,10 @@
+C:\Users\VVV\source\repos\Practice_2\Practice_2\bin\Debug\Practice_2.exe.config
+C:\Users\VVV\source\repos\Practice_2\Practice_2\bin\Debug\Practice_2.exe
+C:\Users\VVV\source\repos\Practice_2\Practice_2\bin\Debug\Practice_2.pdb
+C:\Users\VVV\source\repos\Practice_2\Practice_2\obj\Debug\Practice_2.csprojAssemblyReference.cache
+C:\Users\VVV\source\repos\Practice_2\Practice_2\obj\Debug\Practice_2.Form1.resources
+C:\Users\VVV\source\repos\Practice_2\Practice_2\obj\Debug\Practice_2.Properties.Resources.resources
+C:\Users\VVV\source\repos\Practice_2\Practice_2\obj\Debug\Practice_2.csproj.GenerateResource.cache
+C:\Users\VVV\source\repos\Practice_2\Practice_2\obj\Debug\Practice_2.csproj.CoreCompileInputs.cache
+C:\Users\VVV\source\repos\Practice_2\Practice_2\obj\Debug\Practice_2.exe
+C:\Users\VVV\source\repos\Practice_2\Practice_2\obj\Debug\Practice_2.pdb
